@@ -1,0 +1,19 @@
+.input-field {
+  input {
+    font-size: 10pt !important;
+    color: #fff;
+  }
+
+  select {
+    display: inline-block;
+    font-size: 9pt !important;
+    height: 30px;
+  }
+}
+
+.browser-default {
+  background-color: transparent;
+  border-width: 0 0 1px 0;
+  font-size: 10pt !important;
+  color: #fff;
+}
